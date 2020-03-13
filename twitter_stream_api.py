@@ -33,8 +33,10 @@ consumer_secret = ""
 access_token = ""
 access_token_secret = ""
 
+
 # This will collect live Tweets from the stream and store the chosen fields into my Coronavirus collection, webScience database
 class StdOutListener(StreamListener):
+
 
     def on_data(self, data):
 
@@ -54,6 +56,25 @@ class StdOutListener(StreamListener):
             # Convert the timestamp string given by Twitter to a date object called "created" which is more easily readable
             created = datetime.datetime.strptime(dt, '%a %b %d %H:%M:%S +0000 %Y')
 
+            # Initialise the REST API
+            # Write to file the followers of each user
+            list_of_followers = []
+
+            file = open("/Users/jordynbrown/followers.txt","a+") 
+            current_cursor = tweepy.Cursor(api.followers_ids, screen_name=username, count=10)
+            current_followers = current_cursor.iterator.next()
+            list_of_followers.extend(current_followers)
+            next_cursor_id = current_cursor.iterator.next_cursor
+
+            while(next_cursor_id!=0):
+                current_cursor = tweepy.Cursor(self.api.followers_ids, screen_name=username, count=10,cursor=next_cursor_id)
+                current_followers=current_cursor.iterator.next()
+                list_of_followers.extend(current_followers)
+                next_cursor_id = current_cursor.iterator.next_cursor
+                
+            file.write(list_of_followers)
+            file.close()  
+
 
             # Load all of the extracted data (above) into the variable "tweet" that will be stored into the webScience
             tweet = {'id':tweet_id, 'username':username, 'followers':followers, 'text':text, 'hashtags':hashtags, 'language':language, 'created':created}
@@ -61,12 +82,17 @@ class StdOutListener(StreamListener):
             # Save to the webScience database
             collection.save(tweet)
 
+            # Get the full list of followers of a particular user
+            
+
+
             # Optional - Print the username and text of each Tweet to your console as they are pulled from the stream
             # I used this to first test that data was coming in, then to keep track of the number of tweets collected
             print (username + ':' + ' ' + text)
             return True
         except:
             print(t)
+
 
 
     # Used for debugging, prints error to the console if needed
