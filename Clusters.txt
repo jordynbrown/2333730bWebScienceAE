@@ -1,29 +1,30 @@
 Top usernames per cluster:
 Cluster 0:
- born_blunt
- beholdisrael
  friend
  hywhliqtup
- 441
  furloughs
+ 441
  ch8lrpu
  eqnjxiekbs
- credibility
+ batters
+ directly
+ businesses
  contr
 Cluster 1:
- disturbing
+ born_blunt
  jordyinit
- candidates
  cancels
- cancer
  cancgseattle
  candi
  candicdebacad9
  candidate
+ candidates
  candygram30
+ cannabis
 Cluster 2:
- audio
- cancelling
+ gentlemen
+ cancelled
+ cancels
  cancer
  cancgseattle
  candi
@@ -31,55 +32,65 @@ Cluster 2:
  candidate
  candidates
  candygram30
- cannabis
 Cluster 3:
- indi
+ gagamediadotnet
  jordyinit
  candidates
+ cancelling
  cancels
  cancer
  cancgseattle
  candi
  candicdebacad9
  candidate
- candygram30
 Cluster 4:
- bloody
+ gog
  jordyinit
- cannabis
+ candidate
+ cancelling
+ cancels
+ cancer
  cancgseattle
  candi
  candicdebacad9
- candidate
  candidates
- candygram30
- canno
 Cluster 5:
- aldubxadninnerstrength
+ impose
  jordyinit
- candidates
+ cancelled
  cancels
  cancer
  cancgseattle
  candi
  candicdebacad9
  candidate
- candygram30
+ candidates
 Cluster 6:
- aozpywevhb
+ coronavirusuk
  jordyinit
- candygram30
+ capitalism
+ cancels
  cancer
  cancgseattle
  candi
  candicdebacad9
  candidate
  candidates
- cannabis
 Cluster 7:
- aaron
+ farting
  jordyinit
- cannabis
+ cancelled
+ cancels
+ cancer
+ cancgseattle
+ candi
+ candicdebacad9
+ candidate
+ candidates
+Cluster 8:
+ beholdisrael
+ jordyinit
+ cancels
  cancer
  cancgseattle
  candi
@@ -87,6 +98,19 @@ Cluster 7:
  candidate
  candidates
  candygram30
+Cluster 9:
+ ignorance
+ jordyinit
+ candygram30
+ cancels
+ cancer
+ cancgseattle
+ candi
+ candicdebacad9
+ candidate
+ candidates
+
+
 Top hashtags per cluster:
 Cluster 0:
  accompany
@@ -100,61 +124,17 @@ Cluster 0:
  2eo8fcq2nu
  2g5ryy3nqn
 Cluster 1:
- 1800
- 15
- 35dszewi8d
- a1responder
- 5u4pvxgoa5
- 198
- 600
- 175
- 7xwdriqdch
- 167
-Cluster 2:
- 1chn0mjbmy
- 400
- 5u4pvxgoa5
- a1responder
- 1o8wlkaget
- 187
- 35dszewi8d
- 1mrkojo
- 1pq5arntej
- 1eeyd0onh5
-Cluster 3:
- 5u4pvxgoa5
- a1responder
- 133
- 35dszewi8d
- 1776stonewall
- 193
- 1fxocepxqd
- 1eeyd0onh5
- 1st
- 61culyozfx
-Cluster 4:
- a1responder
- 5u4pvxgoa5
- 22rh966idc
- 35dszewi8d
- 060
- 21000
- 1tiqjwy8vf
- 2009
- 200304
- 43a856gwk9
-Cluster 5:
- 5u4pvxgoa5
- a1responder
- 35dszewi8d
- 3sahovytsb
- 044
- 22
- 239
- 130
  0awx5spv
- 0tfknu0gjr
-Cluster 6:
+ 239
+ 35dszewi8d
+ a1responder
+ 5u4pvxgoa5
+ 0xv0nzcniv
+ 0nnxik4nvb
+ 600
+ 0ihy67gubl
+ 2g5ryy3nqn
+Cluster 2:
  128
  absteward
  5u4pvxgoa5
@@ -165,42 +145,108 @@ Cluster 6:
  900
  26ymit0p
  8up69mg2
+Cluster 3:
+ 1970s
+ 3sahovytsb
+ 186
+ 5u4pvxgoa5
+ a1responder
+ 1fda0zurti
+ 183
+ 150
+ 68
+ 35dszewi8d
+Cluster 4:
+ 5u4pvxgoa5
+ a1responder
+ 3sahovytsb
+ 35dszewi8d
+ 400
+ 1chn0mjbmy
+ 1o8wlkaget
+ 130
+ 5ajj3cpbdz
+ 22rh966idc
+Cluster 5:
+ 1kdev_
+ a1responder
+ 5u4pvxgoa5
+ 35dszewi8d
+ 1wbli7s8pu
+ 18
+ 1970s
+ 14th
+ 1r6algccda
+ 3sahovytsb
+Cluster 6:
+ 200304
+ 1st
+ a1responder
+ 5u4pvxgoa5
+ 35dszewi8d
+ 21000
+ 1fxocepxqd
+ 3sahovytsb
+ 1wcy8jpefx
+ 1xjlt16xj6
 Cluster 7:
  a1responder
  5u4pvxgoa5
- 6yt2idiyl0
- 3120
- 4b3tyylhct
- 6c4cmryp98
- 9yddgws6wo
- 170
- 1934
- 134m
+ 35dszewi8d
+ 1800
+ 15
+ 044
+ 22
+ 198
+ 1tas1k6mud
+ 0tfknu0gjr
+Cluster 8:
+ 101
+ 133
+ 61culyozfx
+ a1responder
+ 5u4pvxgoa5
+ 155zo76ots
+ 5bepsja32p
+ 40496
+ abe
+ 35dszewi8d
+Cluster 9:
+ 2009
+ 1tiqjwy8vf
+ a1responder
+ 5u4pvxgoa5
+ 35dszewi8d
+ 43a856gwk9
+ 060
+ 21000
+ 22
+ 20
 
 
 Top text per cluster:
 Cluster 0:
- people
- rt
- coronavirus
- https
- äôs
- 000
- äôt
- self
- speak
- advice
+ positif
+ kes
+ dah
+ hausofhilton
+ di
+ unnecessary
+ malaysia
+ guys
+ 50
+ safe
 Cluster 1:
  music
  ladygaga
  make
- photo
- unrelated
- 30s
- xoevilo
- confined
- manhattan
- completely
+ sought
+ racists
+ illnes
+ themlotsdad
+ feared
+ contagious
+ actively
 Cluster 2:
  äôt
  fckin
@@ -213,57 +259,79 @@ Cluster 2:
  apparently
  racist
 Cluster 3:
- salary
- trump
- president
- help
- fight
- donates
- spent
- money
- quarterly
- silencing
-Cluster 4:
- coronavirus
- rt
- https
  absolutely
- new
- trump
- äôs
- asked
- response
  klopp
-Cluster 5:
- bendreyfuss
- cheap
- im
- thinks
- flights
- lot
- right
- going
+ jurgen
+ asked
+ class
+ spot
+ response
+ futbolbible
+ speaks
+ sense
+Cluster 4:
+ cases
+ new
  coronavirus
+ total
+ https
+ confirmed
+ deaths
+ reports
  rt
-Cluster 6:
+ 15
+Cluster 5:
+ trump
+ just
+ president
  wanna
  feel
  shit
- just
+ salary
+ rt
  people
- galeforcerob
- bed
- flu
- stay
  coronavirus
+Cluster 6:
+ photo
+ 30s
+ xoevilo
+ unrelated
+ confined
+ manhattan
+ completely
+ mid
+ woman
+ patient
 Cluster 7:
+ death
+ rate
+ toll
+ globally
+ coronavirus
+ rises
+ flu
+ infected
+ global
+ killed
+Cluster 8:
  schools
  universities
  italy
+ coronavirus
+ rt
  country
+ shah_rymie
+ earth
+ antibodies
  close
- weeks
- italian
- control
- bbcbreaking
- outbreak
+Cluster 9:
+ rt
+ coronavirus
+ https
+ people
+ äôs
+ trump
+ amp
+ like
+ new
+ just
